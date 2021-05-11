@@ -1,0 +1,13 @@
+function interface
+
+single method apply()
+it returns a single value of any type. apply method takes parameter and return value
+
+interface Function<T,R>{
+
+public R apply(T){
+return R
+}
+
+
+}
