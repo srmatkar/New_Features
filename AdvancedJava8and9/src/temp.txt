@@ -1,0 +1,2 @@
+Hi
+Added file for checking commits
